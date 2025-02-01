@@ -3,18 +3,18 @@
 This project aims to predict salaries based on key factors such as Age, Gender, Education Level, Job Title, and Years of Experience using Machine Learning techniques. By leveraging regression models, the project provides valuable insights into salary trends and helps professionals make data-driven compensation decisions.
 
 # 🎯 Objectives
-✅ Analyze salary distribution across different job roles, experience levels, and demographics.
-✅ Implement Linear, Polynomial, Ridge, Lasso, and Random Forest Regression models for salary prediction.
-✅ Identify the most influential factors affecting salary.
-✅ Develop an interactive Power BI dashboard for better visualization.
+✅ Analyze salary distribution across different job roles, experience levels, and demographics.\
+✅ Implement Linear, Polynomial, Ridge, Lasso, and Random Forest Regression models for salary prediction.\
+✅ Identify the most influential factors affecting salary.\
+✅ Develop an interactive Power BI dashboard for better visualization.\
 
 # 🏆 Key Features
-🔹 Data Preprocessing & Cleaning – Handling missing values, outliers, and categorical encoding.
-🔹 Exploratory Data Analysis (EDA) – Visualizing salary trends and relationships between features.
-🔹 Feature Engineering – Selecting key variables like experience, education, and job title.
-🔹 Machine Learning Models – Comparing different regression techniques to find the best model.
-🔹 Hyperparameter Tuning – Optimizing models for better accuracy.
-🔹 Salary Insights & Trends – Identifying pay gaps, high-paying industries, and experience-based salary growth.
+🔹 Data Preprocessing & Cleaning – Handling missing values, outliers, and categorical encoding.\
+🔹 Exploratory Data Analysis (EDA) – Visualizing salary trends and relationships between features.\
+🔹 Feature Engineering – Selecting key variables like experience, education, and job title.\
+🔹 Machine Learning Models – Comparing different regression techniques to find the best model.\
+🔹 Hyperparameter Tuning – Optimizing models for better accuracy.\
+🔹 Salary Insights & Trends – Identifying pay gaps, high-paying industries, and experience-based salary growth.\
 
 # 📊 Dataset Used
 The dataset contains salary details of professionals from various industries. The key features include:
