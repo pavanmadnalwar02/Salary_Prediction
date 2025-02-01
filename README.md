@@ -28,11 +28,11 @@ Years of Experience ⏳\
 # ⚡ Tech Stack
 🔹 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)\
 🔹 Machine Learning Models\
-    Linear Regression\
-    Polynomial Regression\
-    Ridge Regression\
-    Lasso Regression\
-    Random Forest Regression\
+      Linear Regression\
+      Polynomial Regression\
+       Ridge Regression\
+      Lasso Regression\
+      Random Forest Regression\
 🔹 Jupyter Notebook for data analysis and modeling\
 🔹 Power BI for interactive salary visualizations\
 # 📈 Model Performance
